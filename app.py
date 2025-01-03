@@ -1,0 +1,1 @@
+print("we start new django series")
