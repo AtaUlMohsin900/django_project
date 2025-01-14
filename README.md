@@ -10,3 +10,8 @@
 
 	./venv/Scripts/activate
 ```
+* Install django framework:
+
+```
+	pip install django
+```
