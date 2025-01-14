@@ -19,6 +19,18 @@
 * And also install this file its like package.json:
 
 ```
+
+* Now you can check your django app using this commond:
+```
+python manage.py runserver
+```
+* if you got following error stop you app using Ctrl+c :
+```
+You have 18 unpplied migration(s). Your project may not work properly until you
+ apply the migrations for app(s): admin, auth, contenttypes, sessions.
+ Run 'python manage.py migrate' to apply them."
+use this commond
+```
  	pip freeze > requirements.txt 
 ```
 Create a django project. 
