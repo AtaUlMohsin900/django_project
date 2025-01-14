@@ -37,3 +37,11 @@ Create a django project.
 ```
 django-admin startproject <project_Name>
 ```
+
+* Apply the migrations & create superuser for admin:
+```
+python manage.py makemigrations
+python manage.py createsuperuser
+python manage.py runserver
+```
+
