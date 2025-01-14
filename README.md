@@ -21,3 +21,7 @@
 ```
  	pip freeze > requirements.txt 
 ```
+Create a django project. 
+```
+django-admin startproject <project_Name>
+```
