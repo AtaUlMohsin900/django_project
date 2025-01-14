@@ -15,3 +15,9 @@
 ```
 	pip install django
 ```
+
+* And also install this file its like package.json:
+
+```
+ 	pip freeze > requirements.txt 
+```
