@@ -24,7 +24,7 @@
 ```
 python manage.py runserver
 ```
-* if you got following error stop you app using Ctrl+c :
+* if you got following error stop your app using Ctrl+c :
 ```
 You have 18 unpplied migration(s). Your project may not work properly until you
  apply the migrations for app(s): admin, auth, contenttypes, sessions.
